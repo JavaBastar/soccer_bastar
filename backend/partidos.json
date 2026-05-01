@@ -1,17 +1,7 @@
 [
   {
-    "hora": "08:15",
-    "partido": "08:15 LaLiga SmartBank: FC Andorra vs Albacete LaLiga TV Hypermotion",
-    "canales": [
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la14hd.com/vivo/canal.php?stream=hypermotion1"
-      }
-    ]
-  },
-  {
     "hora": "10:30",
-    "partido": "10:30 LaLiga SmartBank: Deportivo La Coruña vs Leganés LaLiga TV Hypermotion",
+    "partido": "10:30 LaLiga SmartBank: Deportivo La Coruña vs Leganés LaLiga",
     "canales": [
       {
         "nombre": "LaLiga TV Hypermotion",
