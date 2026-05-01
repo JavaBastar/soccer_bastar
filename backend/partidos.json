@@ -1,15 +1,5 @@
 [
   {
-    "hora": "14:00",
-    "partido": "14:00 Sudamericano Sub-17 Femenino: Ecuador vs Uruguay",
-    "canales": [
-      {
-        "nombre": "Dsports+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=dsportsplus"
-      }
-    ]
-  },
-  {
     "hora": "14:30",
     "partido": "14:30 Brasileiro Femenino: Grêmio vs Corinthians Sportv",
     "canales": [
