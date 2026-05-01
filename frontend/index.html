@@ -256,6 +256,14 @@ header {
     opacity: 1;
     color: #000;
 }
+.header-container {
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;  /* 👈 AGREGA ESTO */
+}
 
 </style>
 </head>
@@ -295,16 +303,51 @@ async function load() {
     const container = document.getElementById("app");
 
     try {
-        const res = await fetch(CONFIG.API_URL + "/partidos");
+        const res = await fetch("https://raw.githubusercontent.com/JavaBastar/soccer_bastar/main/backend/partidos.json");
         const data = await res.json();
 
         console.log("DATA:", data);
 
         localStorage.setItem("partidos_cache", JSON.stringify(data));
 
-        // 🟢 STATUS HEADER (PUNTO 4 Y 5)
-        document.getElementById("status").innerText = `🟢 ${data.length} partidos activos`;
-        document.getElementById("status").style.color = "#00ff88";
+        const now = new Date();
+
+        const fecha = now.toLocaleDateString("es-MX", {
+            day: "2-digit",
+            month: "2-digit"
+        });
+
+        const hora = now.toLocaleTimeString("es-MX", {
+            hour: "2-digit",
+            minute: "2-digit",
+            hour12: false
+        });
+
+        localStorage.setItem("last_update", `Actualizado ${fecha} - ${hora}`);
+
+
+
+        if (data.length === 0) {
+            const last = localStorage.getItem("last_update");
+
+            if (last) {
+                document.getElementById("status").innerText = `🟡 Sin partidos • ${last}`;
+            } else {
+                document.getElementById("status").innerText = "🟡 Sin partidos en este momento";
+            }
+
+            document.getElementById("status").style.color = "#ffd166";
+
+        } else {
+            document.getElementById("status").innerText = `🟢 ${data.length} partidos activos`;
+            document.getElementById("status").style.color = "#00ff88";
+            const last = localStorage.getItem("last_update");
+            if (last) {
+                document.getElementById("status").innerText += ` • ${last}`;
+            }
+
+        }
+
 
         render(data);
 
@@ -317,7 +360,13 @@ async function load() {
             const data = JSON.parse(cache);
 
             // 🔴 estado offline
-            document.getElementById("status").innerText = "🔴 Offline (cache)";
+            const last = localStorage.getItem("last_update");
+
+            if (last) {
+                document.getElementById("status").innerText = `🔴 Offline • ${last}`;
+            } else {
+                document.getElementById("status").innerText = "🔴 Offline (sin historial)";
+            }
             document.getElementById("status").style.color = "#ff4d4d";
 
             render(data);

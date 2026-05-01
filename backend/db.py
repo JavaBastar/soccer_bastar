@@ -1,10 +1,13 @@
 import sqlite3
 import json
+import os
 
 DB_NAME = "partidos.db"
 
 
 def init_db():
+    print("📂 DB path:", os.path.abspath(DB_NAME))
+
     conn = sqlite3.connect(DB_NAME)
     cursor = conn.cursor()
 
