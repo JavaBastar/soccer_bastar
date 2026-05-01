@@ -1,7 +1,7 @@
 [
   {
     "hora": "17:30",
-    "partido": "17:30 NBA – Playoffs Juego #6 – Atlanta Hawks vs New York Knicks 3 3",
+    "partido": "17:30 NBA – Playoffs Juego #6 – Atlanta Hawks vs New York Knicks",
     "canales": [
       {
         "nombre": "ESPN3",
@@ -11,7 +11,7 @@
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Sudamericana: Tigre vs América de Cali +",
+    "partido": "18:00 Copa Sudamericana: Tigre vs América de Cali",
     "canales": [
       {
         "nombre": "ESPN",
@@ -25,7 +25,7 @@
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Libertadores: Corinthians vs Peñarol 2 + 2",
+    "partido": "18:00 Copa Libertadores: Corinthians vs Peñarol",
     "canales": [
       {
         "nombre": "ESPN2",
@@ -53,7 +53,7 @@
   },
   {
     "hora": "18:30",
-    "partido": "18:30 Copa Sudamericana: RB Bragantino vs River Plate 5 + 5 Ñ",
+    "partido": "18:30 Copa Sudamericana: RB Bragantino vs River Plate",
     "canales": [
       {
         "nombre": "ESPN5",
@@ -71,7 +71,7 @@
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga MX Femenil: Guadalajara vs Pachuca FOX Deportes Universo 2 FOX Deportes |",
+    "partido": "19:00 Liga MX Femenil: Guadalajara vs Pachuca",
     "canales": [
       {
         "nombre": "FOX Deportes",
@@ -85,7 +85,7 @@
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga de Expansión MX: Mineros de Zacatecas vs Tepatitlán 3 MX +",
+    "partido": "19:00 Liga de Expansión MX: Mineros de Zacatecas vs Tepatitlán",
     "canales": [
       {
         "nombre": "ESPN3 MX",
@@ -99,7 +99,7 @@
   },
   {
     "hora": "19:30",
-    "partido": "19:30 NBA – Playoffs Juego #6 – Minnesota Timberwolves vs Denver Nuggets 3 3",
+    "partido": "19:30 NBA – Playoffs Juego #6 – Minnesota Timberwolves vs Denver Nuggets",
     "canales": [
       {
         "nombre": "ESPN3",
@@ -109,7 +109,7 @@
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Libertadores: Medellín vs Cusco + 2 Ñ",
+    "partido": "20:00 Copa Libertadores: Medellín vs Cusco",
     "canales": [
       {
         "nombre": "ESPN",
@@ -131,7 +131,7 @@
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Sudamericana: Alianza Atlético vs Macará Dsports Dsports",
+    "partido": "20:00 Copa Sudamericana: Alianza Atlético vs Macará",
     "canales": [
       {
         "nombre": "Dsports",
@@ -141,7 +141,7 @@
   },
   {
     "hora": "21:00",
-    "partido": "21:00 Liga de Expansión MX: CDS Tampico Madero vs Cancún + 3 MX",
+    "partido": "21:00 Liga de Expansión MX: CDS Tampico Madero vs Cancún",
     "canales": [
       {
         "nombre": "Disney+",
