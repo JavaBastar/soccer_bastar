@@ -1,129 +1,119 @@
- body {
+body {
     margin: 0;
     font-family: "Segoe UI", Arial, sans-serif;
-    background: radial-gradient(circle at top, #0f172a, #0b0f19);
+    background:
+        radial-gradient(circle at 10% 10%, #1e293b, transparent 40%),
+        radial-gradient(circle at 90% 0%, #0ea5e9, transparent 40%),
+        radial-gradient(circle at 50% 100%, #00c85333, transparent 40%),
+        #0b0f19;
     color: #fff;
 }
 
-header {
+/* HEADER */
+.header {
     background: linear-gradient(90deg, #00c853, #00b0ff);
-    padding: 18px;
+    background-color: rgba(0, 0, 0, 0.6); /* 👈 fallback para blur */
+    padding: 14px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+.section-title {
     text-align: center;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 700;
     letter-spacing: 1px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    color: #e2e8f0;
+    margin: 25px 0 20px;
+    position: relative;
 }
 
-.container {
+.section-title::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    margin: 8px auto 0;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00c853, #00b0ff);
+}
+
+.header-container {
     max-width: 900px;
     margin: auto;
-    padding: 20px;
-}
-
-.card {
-    background: rgba(21, 27, 44, 0.85);
-    border: 1px solid rgba(255,255,255,0.05);
-    backdrop-filter: blur(8px);
-    border-radius: 16px;
-    padding: 16px;
-    margin-bottom: 14px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
-    transition: 0.25s ease;
-}
-
-.card:hover {
-    transform: translateY(-3px);
-    border-color: rgba(0, 200, 83, 0.4);
-}
-
-.hora {
-    color: #00e676;
-    font-weight: 600;
-    font-size: 13px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 15px;
+    justify-content: center;
 }
 
-.partido {
-    font-size: 17px;
-    margin: 8px 0 12px;
-    font-weight: 600;
+.logo-big {
+    height: 70px;
+    width: 70px;
+    object-fit: contain;
+    background: rgba(255,255,255,0.1);
+    padding: 6px;
+    border-radius: 12px;
 }
 
-.canales {
+.header-info {
     display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.canal {
-    display: inline-block;
-    background: #1e293b;
-    padding: 6px 10px;
-    border-radius: 10px;
-    font-size: 12px;
-    color: #93c5fd;
-    text-decoration: none;
-    transition: 0.2s;
-    border: 1px solid transparent;
-}
-
-.canal:hover {
-    background: #00c853;
-    color: #000;
-    transform: scale(1.05);
-}
-
-.badge {
-    background: #00c853;
-    color: #000;
-    font-size: 10px;
-    padding: 3px 7px;
-    border-radius: 6px;
-    margin-left: 6px;
-    animation: pulse 1.5s infinite;
-}
-
-@keyframes pulse {
-    0% { transform: scale(1); opacity: 1; }
-    50% { transform: scale(1.1); opacity: 0.7; }
-    100% { transform: scale(1); opacity: 1; }
-}
-
-.loader {
+    flex-direction: column;
+    gap: 4px;
     text-align: center;
-    margin-top: 60px;
-    opacity: 0.7;
 }
-.header {
-    background: linear-gradient(90deg, #00c853, #00b0ff, #00c853);
-    background-size: 200% 200%;
-    animation: gradientMove 6s ease infinite;
-    padding: 18px;
-    text-align: center;
+
+.title {
     font-size: 20px;
     font-weight: 800;
-    letter-spacing: 1px;
-    box-shadow: 0 8px 25px rgba(0,0,0,0.4);
-}
-
-@keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
 }
 
 .status {
     font-size: 12px;
-    margin-top: 6px;
     opacity: 0.9;
 }
+
+.fb-link {
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+    opacity: 0.9;
+}
+
+.fb-link:hover {
+    color: #000;
+}
+
+/* CONTENEDOR */
+.container {
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+
+/* CARDS */
 .card {
     position: relative;
     overflow: hidden;
+    background: rgba(21, 27, 44, 0.75);
+    border: 1px solid rgba(255,255,255,0.05);
+    border-left: 4px solid #00c853;
+    backdrop-filter: blur(10px);
+    border-radius: 18px;
+    padding: 16px;
+    margin-bottom: 14px;
+    transition: all 0.25s ease;
 }
+
+.card:hover {
+    transform: translateY(-6px) scale(1.01);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.7);
+}
+
 .card::before {
     content: "";
     position: absolute;
@@ -139,9 +129,45 @@ header {
     left: 100%;
 }
 
+/* TEXTO */
+.hora {
+    font-size: 12px;
+    opacity: 0.75;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.partido {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 8px 0 12px;
+}
+
+/* CANALES */
+.canales {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
 .canal {
     position: relative;
     overflow: hidden;
+    font-weight: 600;
+    background: linear-gradient(135deg, #1e293b, #0f172a);
+    border: 1px solid rgba(255,255,255,0.08);
+    padding: 6px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    color: #93c5fd;
+    text-decoration: none;
+}
+
+.canal:hover {
+    background: #00c853;
+    color: #000;
+    transform: scale(1.05);
 }
 
 .canal::after {
@@ -158,101 +184,27 @@ header {
 .canal:hover::after {
     left: 100%;
 }
-.brand {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    font-weight: 800;
-}
 
-.logo {
-    height: 38px;
-    width: 38px;
-    object-fit: contain;
-    border-radius: 8px;
-    background: rgba(255,255,255,0.1);
-    padding: 3px;
-}
-
-.fb-link {
-    display: inline-block;
-    margin-top: 6px;
-    font-size: 12px;
-    color: #ffffff;
-    text-decoration: none;
-    opacity: 0.85;
-    transition: 0.2s;
-}
-
-.fb-link:hover {
-    opacity: 1;
-    color: #00e676;
-}
-.header {
-    background: linear-gradient(90deg, #00c853, #00b0ff);
-    padding: 14px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.4);
-}
-
-.header-container {
-    max-width: 900px;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    
-}
-
-/* LOGO GRANDE IZQUIERDA */
-.logo-big {
-    height: 70px;
-    width: 70px;
-    object-fit: contain;
-    background: rgba(255,255,255,0.1);
-    padding: 6px;
-    border-radius: 12px;
-}
-
-/* TEXTO DERECHA EN COLUMNA */
-.header-info {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-}
-
-/* TÍTULO */
-.title {
-    font-size: 20px;
-    font-weight: 800;
-    letter-spacing: 1px;
-}
-
-/* STATUS */
-.status {
-    font-size: 12px;
-    opacity: 0.9;
-}
-
-/* FACEBOOK */
-.fb-link {
-    font-size: 12px;
-    color: white;
-    text-decoration: none;
-    opacity: 0.9;
-    transition: 0.2s;
-}
-
-.fb-link:hover {
-    opacity: 1;
+/* BADGE */
+.badge {
+    background: #00c853;
     color: #000;
-}
-.header-container {
-    max-width: 900px;
-    margin: auto;
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    justify-content: center;  /* 👈 AGREGA ESTO */
+    font-size: 10px;
+    padding: 3px 7px;
+    border-radius: 6px;
+    animation: pulse 1.5s infinite;
+    box-shadow: 0 0 10px #00c853;
 }
 
+@keyframes pulse {
+    0% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.1); opacity: 0.7; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+/* LOADER */
+.loader {
+    text-align: center;
+    margin-top: 60px;
+    opacity: 0.7;
+}

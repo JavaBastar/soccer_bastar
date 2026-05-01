@@ -63,6 +63,8 @@ def limpiar_canales(canales):
         }
 
     return list(limpios.values())
+
+
 def parse_matches_with_channels(html):
     soup = BeautifulSoup(html, "html.parser")
 
@@ -104,7 +106,8 @@ def parse_matches_with_channels(html):
                     })
 
         canales = limpiar_canales(canales)
-
+        texto=limpiar_canales_texto(texto)
+        print(texto)
         resultados.append({
             "hora": hora,
             "partido": texto,
@@ -112,6 +115,49 @@ def parse_matches_with_channels(html):
         })
 
     return resultados
+
+import re
+import re
+
+def limpiar_canales_texto(texto):
+    basura = [
+        "TyC Sports", "TyC Sports Movil",
+        "ESPN", "ESPN2", "ESPN3", "ESPN5",
+        "ESPN Movil", "ESPN3 Movil",
+        "Disney", "Disney+", "Disney+ Movil",
+        "Fox Sports", "Fox Sports 2",
+        "DSports", "DSports Movil",
+        "beIN Sports", "beIN Sports Ñ",
+        "Movil", "Móvil", "FOX", "Deportes", "Universo" 
+    ]
+
+    texto_lower = texto.lower()
+
+    # 🔥 buscar primera aparición de cualquier canal
+    cut_index = None
+
+    for b in basura:
+        idx = texto_lower.find(b.lower())
+        if idx != -1:
+            if cut_index is None or idx < cut_index:
+                cut_index = idx
+
+    # ✂️ cortar todo lo que viene después
+    if cut_index is not None:
+        texto = texto[:cut_index]
+
+    # limpiar espacios
+    texto = re.sub(r"\s+", " ", texto).strip()
+
+    return texto
+
+
+
+
+
+
+
+
 
 def decode_url(encoded):
     try:

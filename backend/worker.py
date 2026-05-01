@@ -40,6 +40,7 @@ def run_worker():
                     os.system("git add partidos.json")
                     os.system(f'git commit -m "update partidos {time.strftime("%H:%M:%S")}"')
                     os.system("git push")
+                    print("⏭ Cambios arriba")
 
                 else:
                     print("⏭ Sin cambios, no se guarda ni se sube")
