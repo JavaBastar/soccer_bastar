@@ -111,12 +111,8 @@
   },
   {
     "hora": "18:15",
-    "partido": "18:15 Copa Argentina: Vélez Sarsfield vs Gimnasia y Tiro TyC Sports Internacional TyC Sports TyC Sports Movil",
+    "partido": "18:15 Copa Argentina: Vélez Sarsfield vs Gimnasia y Tiro TyC Sports TyC Sports Movil",
     "canales": [
-      {
-        "nombre": "TyC Sports Internacional",
-        "url": "https://la14hd.com/vivo/canal.php?stream=tycinternacional"
-      },
       {
         "nombre": "TyC Sports",
         "url": "https://rojadirectatve.com/repro/tycsports.html"
