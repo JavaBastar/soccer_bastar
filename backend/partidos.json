@@ -1,7 +1,7 @@
 [
   {
     "hora": "16:00",
-    "partido": "16:00 Copa Sudamericana: Carabobo vs Blooming Dsports+",
+    "partido": "16:00 Copa Sudamericana: Carabobo vs Blooming Dsports",
     "canales": [
       {
         "nombre": "Dsports+",
@@ -11,7 +11,7 @@
   },
   {
     "hora": "16:00",
-    "partido": "16:00 Copa Libertadores: Independiente Rivadavia vs Deportivo La Guaira ESPN2 Disney+ ESPN2 Movil Fox Sports",
+    "partido": "16:00 Copa Libertadores: Independiente Rivadavia vs Deportivo La Guaira ESPN2 Disney",
     "canales": [
       {
         "nombre": "ESPN2",
@@ -29,7 +29,7 @@
   },
   {
     "hora": "16:00",
-    "partido": "16:00 Copa Sudamericana: Vasco da Gama vs Olimpia ESPN Disney+ ESPN Movil",
+    "partido": "16:00 Copa Sudamericana: Vasco da Gama vs Olimpia ESPN Disney",
     "canales": [
       {
         "nombre": "ESPN",
@@ -43,7 +43,7 @@
   },
   {
     "hora": "16:00",
-    "partido": "16:00 Copa Libertadores: Bolívar vs Fluminense ESPN5 Disney+ ESPN5 Movil Fox Sports 2 ESPN2 MX beIN Sports Ñ",
+    "partido": "16:00 Copa Libertadores: Bolívar vs Fluminense ESPN5 Disney",
     "canales": [
       {
         "nombre": "ESPN5",
@@ -79,7 +79,7 @@
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Sudamericana: Tigre vs América de Cali ESPN Disney+ ESPN Movil",
+    "partido": "18:00 Copa Sudamericana: Tigre vs Am",
     "canales": [
       {
         "nombre": "ESPN",
@@ -93,7 +93,7 @@
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Libertadores: Corinthians vs Peñarol ESPN2 Disney+ ESPN2 Movil Fox Sports",
+    "partido": "18:00 Copa Libertadores: Corinthians vs Peñarol ESPN2 Disney",
     "canales": [
       {
         "nombre": "ESPN2",
@@ -121,7 +121,7 @@
   },
   {
     "hora": "18:30",
-    "partido": "18:30 Copa Sudamericana: RB Bragantino vs River Plate ESPN5 Disney+ ESPN5 Movil beIN Sports Ñ",
+    "partido": "18:30 Copa Sudamericana: RB Bragantino vs River Plate ESPN5 Disney",
     "canales": [
       {
         "nombre": "ESPN5",
@@ -139,7 +139,7 @@
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga MX Femenil: Guadalajara vs Pachuca FOX Deportes Universo 2 FOX Deportes | Móvil",
+    "partido": "19:00 Liga MX Femenil: Guadalajara vs Pachuca FOX Deportes Universo 2 FOX Deportes",
     "canales": [
       {
         "nombre": "FOX Deportes",
@@ -153,7 +153,7 @@
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga de Expansión MX: Mineros de Zacatecas vs Tepatitlán ESPN3 MX Disney+",
+    "partido": "19:00 Liga de Expansión MX: Mineros de Zacatecas vs Tepatitl",
     "canales": [
       {
         "nombre": "ESPN3 MX",
@@ -177,7 +177,7 @@
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Libertadores: Medellín vs Cusco ESPN Disney+ ESPN Movil Fox Sports 2 beIN Sports Ñ",
+    "partido": "20:00 Copa Libertadores: Medellín vs Cusco ESPN Disney",
     "canales": [
       {
         "nombre": "ESPN",
@@ -199,7 +199,7 @@
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Sudamericana: Alianza Atlético vs Macará Dsports Dsports Movil",
+    "partido": "20:00 Copa Sudamericana: Alianza Atlético vs Macar",
     "canales": [
       {
         "nombre": "Dsports",
@@ -209,7 +209,7 @@
   },
   {
     "hora": "21:00",
-    "partido": "21:00 Liga de Expansión MX: CDS Tampico Madero vs Cancún Disney+ ESPN3 MX",
+    "partido": "21:00 Liga de Expansión MX: CDS Tampico Madero vs Canc",
     "canales": [
       {
         "nombre": "Disney+",
