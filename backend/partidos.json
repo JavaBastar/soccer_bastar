@@ -1,69 +1,77 @@
 [
   {
     "hora": "17:30",
-    "partido": "17:30 NBA – Playoffs Juego #6 – Atlanta Hawks vs New York Knicks ESPN3 ESPN3 Movil",
+    "partido": "ESPN3 Movil",
     "canales": [
       {
-        "nombre": "3",
+        "nombre": "ESPN3",
         "url": "https://rojadirectatve.com/repro/espn3.html"
       }
     ]
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Sudamericana: Tigre vs América de Cali ESPN Disney+ ESPN Movil",
+    "partido": "ESPN Movil",
     "canales": [
       {
-        "nombre": "+",
+        "nombre": "ESPN",
+        "url": "https://rojadirectatve.com/repro/espn.html"
+      },
+      {
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney8"
       }
     ]
   },
   {
     "hora": "18:00",
-    "partido": "18:00 Copa Libertadores: Corinthians vs Peñarol ESPN2 Disney+ ESPN2 Movil Fox Sports",
+    "partido": "Fox Sports",
     "canales": [
       {
-        "nombre": "2",
+        "nombre": "ESPN2",
         "url": "https://rojadirectatve.com/repro/espn2.html"
       },
       {
-        "nombre": "+",
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
+      },
+      {
+        "nombre": "Fox Sports",
+        "url": "https://la14hd.com/vivo/canal.php?stream=foxsports"
       }
     ]
   },
   {
     "hora": "18:15",
-    "partido": "18:15 Copa Argentina: Vélez Sarsfield vs Gimnasia y Tiro TyC Sports TyC Sports Movil",
+    "partido": "TyC Sports Movil",
     "canales": [
       {
-        "nombre": "TyC",
+        "nombre": "TyC Sports",
         "url": "https://rojadirectatve.com/repro/tycsports.html"
       }
     ]
   },
   {
     "hora": "18:30",
-    "partido": "18:30 Copa Sudamericana: RB Bragantino vs River Plate ESPN5 Disney+ ESPN5 Movil beIN Sports Ñ",
+    "partido": "beIN Sports Ñ",
     "canales": [
       {
-        "nombre": "5",
+        "nombre": "ESPN5",
         "url": "https://rojadirectatve.com/repro/espn5.1.html"
       },
       {
-        "nombre": "+",
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney10"
       },
       {
-        "nombre": "Ñ",
+        "nombre": "beIN Sports Ñ",
         "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
       }
     ]
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga MX Femenil: Guadalajara vs Pachuca FOX Deportes Universo 2 FOX Deportes | Móvil",
+    "partido": "FOX Deportes | Móvil",
     "canales": [
       {
         "nombre": "FOX Deportes",
@@ -77,49 +85,53 @@
   },
   {
     "hora": "19:00",
-    "partido": "19:00 Liga de Expansión MX: Mineros de Zacatecas vs Tepatitlán ESPN3 MX Disney+",
+    "partido": "Disney+",
     "canales": [
       {
-        "nombre": "3",
+        "nombre": "ESPN3 MX",
         "url": "https://la14hd.com/vivo/canal.php?stream=espn3mx"
       },
       {
-        "nombre": "+",
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney13"
       }
     ]
   },
   {
     "hora": "19:30",
-    "partido": "19:30 NBA – Playoffs Juego #6 – Minnesota Timberwolves vs Denver Nuggets ESPN3 ESPN3 Movil",
+    "partido": "ESPN3 Movil",
     "canales": [
       {
-        "nombre": "3",
+        "nombre": "ESPN3",
         "url": "https://rojadirectatve.com/repro/espn3.html"
       }
     ]
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Libertadores: Medellín vs Cusco ESPN Disney+ ESPN Movil Fox Sports 2 beIN Sports Ñ",
+    "partido": "beIN Sports Ñ",
     "canales": [
       {
-        "nombre": "+",
+        "nombre": "ESPN",
+        "url": "https://rojadirectatve.com/repro/espn.html"
+      },
+      {
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney11"
       },
       {
-        "nombre": "2",
+        "nombre": "Fox Sports 2",
         "url": "https://la14hd.com/vivo/canal.php?stream=foxsports2"
       },
       {
-        "nombre": "Ñ",
+        "nombre": "beIN Sports Ñ",
         "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
       }
     ]
   },
   {
     "hora": "20:00",
-    "partido": "20:00 Copa Sudamericana: Alianza Atlético vs Macará Dsports Dsports Movil",
+    "partido": "Dsports Movil",
     "canales": [
       {
         "nombre": "Dsports",
@@ -129,14 +141,14 @@
   },
   {
     "hora": "21:00",
-    "partido": "21:00 Liga de Expansión MX: CDS Tampico Madero vs Cancún Disney+ ESPN3 MX",
+    "partido": "ESPN3 MX",
     "canales": [
       {
-        "nombre": "+",
+        "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney14"
       },
       {
-        "nombre": "3",
+        "nombre": "ESPN3 MX",
         "url": "https://la14hd.com/vivo/canal.php?stream=espn3mx"
       }
     ]
