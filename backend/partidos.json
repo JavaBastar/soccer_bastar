@@ -1,15 +1,5 @@
 [
   {
-    "hora": "14:30",
-    "partido": "14:30 Brasileiro Femenino: Grêmio vs Corinthians Sportv",
-    "canales": [
-      {
-        "nombre": "Sportv",
-        "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
-      }
-    ]
-  },
-  {
     "hora": "17:00",
     "partido": "17:00 MLB: New York Yankees vs Baltimore Orioles",
     "canales": [
