@@ -1,85 +1,169 @@
 [
   {
-    "hora": "17:15",
-    "partido": "17:15 League Soccer: Inter Miami vs Orlando City SC MLS03EN",
+    "hora": "06:30",
+    "partido": "06:30 Primera División: Progreso vs Cerro Largo",
     "canales": [
       {
-        "nombre": "MLS03EN",
-        "url": "https://la14hd.com/vivo/canal.php?stream=mls3en"
-      },
-      {
-        "nombre": "FOX Sports 1 USA",
-        "url": "https://la14hd.com/vivo/canal.php?stream=foxsports1_usa"
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
       }
     ]
   },
   {
-    "hora": "17:30",
-    "partido": "17:30 Brasileirão: Athletico-PR vs Grêmio Amazon Prime Fanatiz04",
+    "hora": "06:30",
+    "partido": "06:30 Eredivisie: PEC Zwolle vs Heracles",
     "canales": [
       {
-        "nombre": "Amazon Prime",
-        "url": "https://la14hd.com/vivo/canal.php?stream=amazon_prime1"
-      },
-      {
-        "nombre": "Fanatiz04",
-        "url": "https://la14hd.com/vivo/canal.php?stream=fanatiz4"
-      },
-      {
-        "nombre": "Win Sports",
-        "url": "https://la14hd.com/vivo/canal.php?stream=winsports"
+        "nombre": "ESPN NL",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn1_nl"
       }
     ]
   },
   {
-    "hora": "18:00",
-    "partido": "18:00 Brasileirão: Cruzeiro vs Atlético Mineiro Premiere 3 BR Sportv",
+    "hora": "06:30",
+    "partido": "06:30 Eredivisie: Fortuna Sittard vs Feyenoord",
     "canales": [
       {
-        "nombre": "Premiere 3 BR",
-        "url": "https://la14hd.com/vivo/canal.php?stream=premiere3"
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney10"
       },
       {
-        "nombre": "Sportv",
-        "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
+        "nombre": "ESPN2 MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
+      },
+      {
+        "nombre": "ESPN3 NL",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn3_nl"
       }
     ]
   },
   {
-    "hora": "18:00",
-    "partido": "18:00 Copa de la Liga: Ñublense vs Cobresal TNT Sports Premium CL MAX TNT Sports Premium CL",
+    "hora": "07:00",
+    "partido": "07:00 Premier League: AFC Bournemouth vs Crystal Palace",
     "canales": [
       {
-        "nombre": "TNT Sports Premium CL",
-        "url": "https://rojadirectatve.com/repro/tntchile.html"
-      },
-      {
-        "nombre": "MAX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=max5"
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/pl.php?stream=disney1pl"
       }
     ]
   },
   {
-    "hora": "18:15",
-    "partido": "18:15 Liga Profesional: Platense vs Estudiantes",
+    "hora": "07:00",
+    "partido": "07:00 Serie A: Sassuolo vs Milan",
     "canales": [
       {
-        "nombre": "ESPN Premium",
-        "url": "https://rojadirectatve.com/repro/espn-premium.html"
+        "nombre": "ESPN3",
+        "url": "https://rojadirectatve.com/repro/espn3.html"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney13"
+      },
+      {
+        "nombre": "ESPN MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espnmx"
+      },
+      {
+        "nombre": "ESPN MX MOVIL",
+        "url": "https://rojadirectatve.com/repro/espnmx.html"
       }
     ]
   },
   {
-    "hora": "19:00",
-    "partido": "19:00 Liga MX: Tigres UANL vs Guadalajara",
+    "hora": "07:00",
+    "partido": "07:00 Ligue 1: Lille vs Le Havre",
     "canales": [
       {
-        "nombre": "FOX Deportes",
-        "url": "https://la14hd.com/vivo/canal.php?stream=foxdeportes"
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney12"
       },
       {
-        "nombre": "Universo 2",
-        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&k=OTZiNjdmYTA5MTQwMzI5YTg5YjdhMWVhZDEzNGVkYTM6YzYxOGQzMmM1NmNkYzZjYWQ4MzMwZWI5ODUwN2NhM2Y="
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+      }
+    ]
+  },
+  {
+    "hora": "07:30",
+    "partido": "07:30 Bundesliga: St. Pauli vs Mainz 05",
+    "canales": [
+      {
+        "nombre": "ESPN5",
+        "url": "https://rojadirectatve.com/repro/espn5.1.html"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "hora": "07:30",
+    "partido": "07:30 Women's Super League: Leicester City WFC vs Chelsea FC",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/pl.php?stream=disney2pl"
+      }
+    ]
+  },
+  {
+    "hora": "08:15",
+    "partido": "08:15 LaLiga: Getafe vs Rayo Vallecano",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://rojadirectatve.com/repro/espn2.html"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney14"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=sky_sports_laliga"
+      }
+    ]
+  },
+  {
+    "hora": "08:15",
+    "partido": "08:15 LaLiga 2: Sporting Gijón vs Ceuta LaLiga",
+    "canales": [
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "url": "https://la14hd.com/vivo/canal.php?stream=hypermotion1"
+      }
+    ]
+  },
+  {
+    "hora": "08:30",
+    "partido": "08:30 UEFA Women's Champions League: Barcelona vs Bayern",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney15"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+      }
+    ]
+  },
+  {
+    "hora": "08:30",
+    "partido": "08:30 Premier League: Manchester United vs Liverpool",
+    "canales": [
+      {
+        "nombre": "ESPN PL",
+        "url": "https://la14hd.com/vivo/pl.php?stream=espn"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/pl.php?stream=disney3pl"
+      },
+      {
+        "nombre": "ESPN",
+        "url": "https://rojadirectatve.com/repro/espn.html"
       },
       {
         "nombre": "Telemundo 2",
@@ -88,8 +172,90 @@
     ]
   },
   {
-    "hora": "19:00",
-    "partido": "19:00 Liga 1: Alianza Lima vs Deportivo Moquegua",
+    "hora": "08:45",
+    "partido": "08:45 Eredivisie: AZ vs Twente",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney16"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
+      },
+      {
+        "nombre": "ESPN2 NL",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn2_nl"
+      }
+    ]
+  },
+  {
+    "hora": "08:45",
+    "partido": "08:45 Eredivisie: Sparta Rotterdam vs Go Ahead Eagles",
+    "canales": [
+      {
+        "nombre": "ESPN3 NL",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn3_nl"
+      }
+    ]
+  },
+  {
+    "hora": "09:15",
+    "partido": "09:15 Ligue 1: Auxerre vs Angers SCO",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney17"
+      }
+    ]
+  },
+  {
+    "hora": "09:15",
+    "partido": "09:15 Ligue 1: Paris vs Brest",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney19"
+      }
+    ]
+  },
+  {
+    "hora": "09:15",
+    "partido": "09:15 Ligue 1: Strasbourg vs Toulouse",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney18"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+      }
+    ]
+  },
+  {
+    "hora": "09:30",
+    "partido": "09:30 Bundesliga: Borussia M'gladbach vs Borussia Dortmund",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney20"
+      }
+    ]
+  },
+  {
+    "hora": "09:30",
+    "partido": "09:30 Primera División: Boston River vs Central Español",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney1"
+      }
+    ]
+  },
+  {
+    "hora": "10:00",
+    "partido": "10:00 Liga 1: Sporting Cristal vs Cusco",
     "canales": [
       {
         "nombre": "Liga1max",
@@ -98,12 +264,258 @@
     ]
   },
   {
-    "hora": "21:15",
-    "partido": "21:15 Liga MX: Atlas vs Cruz Azul TUDN USA TUDN USA",
+    "hora": "10:00",
+    "partido": "10:00 Serie A: Juventus vs Verona",
     "canales": [
       {
-        "nombre": "TUDN USA",
-        "url": "https://rojadirectatve.com/repro/tudnusa.html"
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney2"
+      }
+    ]
+  },
+  {
+    "hora": "10:30",
+    "partido": "10:30 LaLiga: Real Betis vs Real Oviedo",
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "url": "https://rojadirectatve.com/repro/dgo.html"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=sky_sports_laliga"
+      }
+    ]
+  },
+  {
+    "hora": "10:30",
+    "partido": "10:30 Liga Profesional: Aldosivi vs Independiente Rivadavia TNT Sports TNT Sports",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://rojadirectatve.com/repro/tnt.html"
+      },
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://la14hd.com/vivo/canal.php?stream=tycinternacional"
+      }
+    ]
+  },
+  {
+    "hora": "10:30",
+    "partido": "10:30 LaLiga 2: Real Sociedad II vs Burgos",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney3"
+      },
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "url": "https://la14hd.com/vivo/canal.php?stream=hypermotion1"
+      }
+    ]
+  },
+  {
+    "hora": "11:30",
+    "partido": "11:30 Bundesliga: Freiburg vs Wolfsburg",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney4"
+      }
+    ]
+  },
+  {
+    "hora": "12:00",
+    "partido": "12:00 Premier League: Aston Villa vs Tottenham Hotspur",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/pl.php?stream=disney1pl"
+      },
+      {
+        "nombre": "Telemundo 2",
+        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+      },
+      {
+        "nombre": "Universo 2",
+        "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbCh1bml2ZXJzby1lYXN0KS9tYXN0ZXIubXBk&k=OTZiNjdmYTA5MTQwMzI5YTg5YjdhMWVhZDEzNGVkYTM6YzYxOGQzMmM1NmNkYzZjYWQ4MzMwZWI5ODUwN2NhM2Y="
+      }
+    ]
+  },
+  {
+    "hora": "12:15",
+    "partido": "12:15 Liga 1: Juan Pablo II College vs Universitario",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://rojadirectatve.com/repro/liga1maxpro.html"
+      }
+    ]
+  },
+  {
+    "hora": "12:30",
+    "partido": "12:30 Primera División: Racing vs Torque",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney5"
+      }
+    ]
+  },
+  {
+    "hora": "12:45",
+    "partido": "12:45 Ligue 1: Olympique Lyonnais vs Rennes",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney6"
+      },
+      {
+        "nombre": "beIN Sports Ñ",
+        "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+      }
+    ]
+  },
+  {
+    "hora": "12:45",
+    "partido": "12:45 Serie A: Internazionale vs Parma",
+    "canales": [
+      {
+        "nombre": "ESPN2",
+        "url": "https://rojadirectatve.com/repro/espn2.html"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney7"
+      },
+      {
+        "nombre": "ESPN2 MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
+      },
+      {
+        "nombre": "FOX Deportes",
+        "url": "https://la14hd.com/vivo/canal.php?stream=foxdeportes"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 LaLiga: Espanyol vs Real Madrid",
+    "canales": [
+      {
+        "nombre": "Dsports",
+        "url": "https://rojadirectatve.com/repro/dgo.html"
+      },
+      {
+        "nombre": "ESPN Deportes",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Sky Sports LaLiga MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=sky_sports_laliga"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 Liga Profesional: Gimnasia La Plata vs Argentinos Juniors",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://rojadirectatve.com/repro/espn-premium.html"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 Serie A Brasil: Flamengo vs Vasco da Gama Premiere BR",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la14hd.com/vivo/canal.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 LaLiga SmartBank: Las Palmas vs Real Valladolid",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney8"
+      },
+      {
+        "nombre": "LaLiga TV Hypermotion",
+        "url": "https://la14hd.com/vivo/canal.php?stream=hypermotion1"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 Liga Profesional: Belgrano vs Sarmiento TNT Sports TNT Sports",
+    "canales": [
+      {
+        "nombre": "TNT Sports",
+        "url": "https://rojadirectatve.com/repro/tnt.html"
+      }
+    ]
+  },
+  {
+    "hora": "13:00",
+    "partido": "13:00 Liga Profesional: Racing Club vs Huracán",
+    "canales": [
+      {
+        "nombre": "TyC Sports Internacional",
+        "url": "https://la14hd.com/vivo/canal.php?stream=tycinternacional"
+      }
+    ]
+  },
+  {
+    "hora": "14:00",
+    "partido": "14:00 Sudamericano Sub-17 Femenino: Perú Sub-17 vs Venezuela Sub-17",
+    "canales": [
+      {
+        "nombre": "Dsports 2",
+        "url": "https://rojadirectatve.com/repro/eventos.html"
+      }
+    ]
+  },
+  {
+    "hora": "14:00",
+    "partido": "14:00 Sudamericano Sub-17 Femenino: Brasil Sub-17 vs Ecuador Sub-17",
+    "canales": [
+      {
+        "nombre": "Dsports+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=dsportsplus"
+      }
+    ]
+  },
+  {
+    "hora": "14:30",
+    "partido": "14:30 Liga 1: Alianza Atlético vs Sport Huancayo",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://rojadirectatve.com/repro/liga1maxpro.html"
+      }
+    ]
+  },
+  {
+    "hora": "15:30",
+    "partido": "15:30 Liga Profesional: River Plate vs Atlético Tucumán",
+    "canales": [
+      {
+        "nombre": "ESPN Premium",
+        "url": "https://rojadirectatve.com/repro/espn-premium.html"
+      },
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
       }
     ]
   }
