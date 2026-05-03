@@ -1,43 +1,5 @@
 [
   {
-    "hora": "06:30",
-    "partido": "06:30 Primera División: Progreso vs Cerro Largo",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
-      }
-    ]
-  },
-  {
-    "hora": "06:30",
-    "partido": "06:30 Eredivisie: PEC Zwolle vs Heracles",
-    "canales": [
-      {
-        "nombre": "ESPN NL",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn1_nl"
-      }
-    ]
-  },
-  {
-    "hora": "06:30",
-    "partido": "06:30 Eredivisie: Fortuna Sittard vs Feyenoord",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney10"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
-      },
-      {
-        "nombre": "ESPN3 NL",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn3_nl"
-      }
-    ]
-  },
-  {
     "hora": "07:00",
     "partido": "07:00 Premier League: AFC Bournemouth vs Crystal Palace",
     "canales": [
