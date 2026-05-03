@@ -1,59 +1,5 @@
 [
   {
-    "hora": "09:15",
-    "partido": "09:15 Ligue 1: Auxerre vs Angers SCO",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney17"
-      }
-    ]
-  },
-  {
-    "hora": "09:15",
-    "partido": "09:15 Ligue 1: Paris vs Brest",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney19"
-      }
-    ]
-  },
-  {
-    "hora": "09:15",
-    "partido": "09:15 Ligue 1: Strasbourg vs Toulouse",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney18"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
-      }
-    ]
-  },
-  {
-    "hora": "09:30",
-    "partido": "09:30 Bundesliga: Borussia M'gladbach vs Borussia Dortmund",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney20"
-      }
-    ]
-  },
-  {
-    "hora": "09:30",
-    "partido": "09:30 Primera División: Boston River vs Central Español",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney1"
-      }
-    ]
-  },
-  {
     "hora": "10:00",
     "partido": "10:00 Liga 1: Sporting Cristal vs Cusco",
     "canales": [
@@ -214,6 +160,10 @@
       {
         "nombre": "ESPN Deportes",
         "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
+      },
+      {
+        "nombre": "Espn+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=espnplus4"
       },
       {
         "nombre": "Sky Sports LaLiga MX",
