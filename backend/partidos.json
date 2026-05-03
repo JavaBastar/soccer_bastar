@@ -1,51 +1,5 @@
 [
   {
-    "hora": "07:00",
-    "partido": "07:00 Premier League: AFC Bournemouth vs Crystal Palace",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/pl.php?stream=disney1pl"
-      }
-    ]
-  },
-  {
-    "hora": "07:00",
-    "partido": "07:00 Serie A: Sassuolo vs Milan",
-    "canales": [
-      {
-        "nombre": "ESPN3",
-        "url": "https://rojadirectatve.com/repro/espn3.html"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney13"
-      },
-      {
-        "nombre": "ESPN MX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espnmx"
-      },
-      {
-        "nombre": "ESPN MX MOVIL",
-        "url": "https://rojadirectatve.com/repro/espnmx.html"
-      }
-    ]
-  },
-  {
-    "hora": "07:00",
-    "partido": "07:00 Ligue 1: Lille vs Le Havre",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney12"
-      },
-      {
-        "nombre": "beIN Sports Ñ",
-        "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
-      }
-    ]
-  },
-  {
     "hora": "07:30",
     "partido": "07:30 Bundesliga: St. Pauli vs Mainz 05",
     "canales": [
