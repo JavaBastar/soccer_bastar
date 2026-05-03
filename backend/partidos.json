@@ -1,29 +1,5 @@
 [
   {
-    "hora": "07:30",
-    "partido": "07:30 Bundesliga: St. Pauli vs Mainz 05",
-    "canales": [
-      {
-        "nombre": "ESPN5",
-        "url": "https://rojadirectatve.com/repro/espn5.1.html"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney11"
-      }
-    ]
-  },
-  {
-    "hora": "07:30",
-    "partido": "07:30 Women's Super League: Leicester City WFC vs Chelsea FC",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/pl.php?stream=disney2pl"
-      }
-    ]
-  },
-  {
     "hora": "08:15",
     "partido": "08:15 LaLiga: Getafe vs Rayo Vallecano",
     "canales": [
