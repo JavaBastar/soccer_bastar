@@ -1,51 +1,5 @@
 [
   {
-    "hora": "10:30",
-    "partido": "10:30 LaLiga: Real Betis vs Real Oviedo",
-    "canales": [
-      {
-        "nombre": "Dsports",
-        "url": "https://rojadirectatve.com/repro/dgo.html"
-      },
-      {
-        "nombre": "ESPN Deportes",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espndeportes"
-      },
-      {
-        "nombre": "Sky Sports LaLiga MX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=sky_sports_laliga"
-      }
-    ]
-  },
-  {
-    "hora": "10:30",
-    "partido": "10:30 Liga Profesional: Aldosivi vs Independiente Rivadavia TNT Sports TNT Sports",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://rojadirectatve.com/repro/tnt.html"
-      },
-      {
-        "nombre": "TyC Sports Internacional",
-        "url": "https://la14hd.com/vivo/canal.php?stream=tycinternacional"
-      }
-    ]
-  },
-  {
-    "hora": "10:30",
-    "partido": "10:30 LaLiga 2: Real Sociedad II vs Burgos",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney3"
-      },
-      {
-        "nombre": "LaLiga TV Hypermotion",
-        "url": "https://la14hd.com/vivo/canal.php?stream=hypermotion1"
-      }
-    ]
-  },
-  {
     "hora": "11:30",
     "partido": "11:30 Bundesliga: Freiburg vs Wolfsburg",
     "canales": [
@@ -246,6 +200,54 @@
       {
         "nombre": "Disney+",
         "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
+      }
+    ]
+  },
+  {
+    "hora": "15:30",
+    "partido": "15:30 Primera División: Colo-Colo vs Coquimbo Unido TNT Sports Premium CL TNT Sports Premium CL",
+    "canales": [
+      {
+        "nombre": "TNT Sports Premium CL",
+        "url": "https://rojadirectatve.com/repro/tntchile.html"
+      }
+    ]
+  },
+  {
+    "hora": "16:00",
+    "partido": "16:00 Primera División: Albion vs Nacional",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney10"
+      }
+    ]
+  },
+  {
+    "hora": "16:45",
+    "partido": "16:45 Primera A: América de Cali vs Deportivo Pereira",
+    "canales": [
+      {
+        "nombre": "Win Sports +",
+        "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+      },
+      {
+        "nombre": "Win Sports + HD",
+        "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+      },
+      {
+        "nombre": "Win Sports +   opc3",
+        "url": "https://rojadirectatve.com/repro/winplus.html"
+      }
+    ]
+  },
+  {
+    "hora": "17:00",
+    "partido": "17:00 Liga 1: Melgar vs UTC Cajamarca",
+    "canales": [
+      {
+        "nombre": "Liga1max",
+        "url": "https://rojadirectatve.com/repro/liga1maxpro.html"
       }
     ]
   }
