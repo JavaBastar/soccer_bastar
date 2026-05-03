@@ -1,33 +1,5 @@
 [
   {
-    "hora": "08:45",
-    "partido": "08:45 Eredivisie: AZ vs Twente",
-    "canales": [
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney16"
-      },
-      {
-        "nombre": "ESPN2 MX",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
-      },
-      {
-        "nombre": "ESPN2 NL",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn2_nl"
-      }
-    ]
-  },
-  {
-    "hora": "08:45",
-    "partido": "08:45 Eredivisie: Sparta Rotterdam vs Go Ahead Eagles",
-    "canales": [
-      {
-        "nombre": "ESPN3 NL",
-        "url": "https://la14hd.com/vivo/canal.php?stream=espn3_nl"
-      }
-    ]
-  },
-  {
     "hora": "09:15",
     "partido": "09:15 Ligue 1: Auxerre vs Angers SCO",
     "canales": [
