@@ -1,15 +1,5 @@
 [
   {
-    "hora": "16:30",
-    "partido": "16:30 Liga 1: Cienciano vs Comerciantes Unidos",
-    "canales": [
-      {
-        "nombre": "Liga1max",
-        "url": "https://rojadirectatve.com/repro/liga1maxpro.html"
-      }
-    ]
-  },
-  {
     "hora": "17:15",
     "partido": "17:15 League Soccer: Inter Miami vs Orlando City SC MLS03EN",
     "canales": [
