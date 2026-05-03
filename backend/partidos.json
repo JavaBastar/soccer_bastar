@@ -205,11 +205,35 @@
   },
   {
     "hora": "15:30",
+    "partido": "15:30 Brasileirão: Internacional vs Fluminense Premiere BR",
+    "canales": [
+      {
+        "nombre": "Premiere BR",
+        "url": "https://la14hd.com/vivo/canal.php?stream=premiere1"
+      }
+    ]
+  },
+  {
+    "hora": "15:30",
+    "partido": "15:30 Brasileirão: Chapecoense vs RB Bragantino Premiere 2 BR",
+    "canales": [
+      {
+        "nombre": "Premiere 2 BR",
+        "url": "https://la14hd.com/vivo/canal.php?stream=premiere2"
+      }
+    ]
+  },
+  {
+    "hora": "15:30",
     "partido": "15:30 Primera División: Colo-Colo vs Coquimbo Unido TNT Sports Premium CL TNT Sports Premium CL",
     "canales": [
       {
         "nombre": "TNT Sports Premium CL",
         "url": "https://rojadirectatve.com/repro/tntchile.html"
+      },
+      {
+        "nombre": "MAX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=max3"
       }
     ]
   },
@@ -248,6 +272,54 @@
       {
         "nombre": "Liga1max",
         "url": "https://rojadirectatve.com/repro/liga1maxpro.html"
+      }
+    ]
+  },
+  {
+    "hora": "17:00",
+    "partido": "17:00 Liga de Expansión MX: Cancún vs CDS Tampico Madero",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney11"
+      }
+    ]
+  },
+  {
+    "hora": "17:30",
+    "partido": "17:30 Brasileirão: Mirassol vs Corinthians Premiere 3 BR Fanatiz03",
+    "canales": [
+      {
+        "nombre": "Premiere 3 BR",
+        "url": "https://la14hd.com/vivo/canal.php?stream=premiere3"
+      },
+      {
+        "nombre": "Fanatiz03",
+        "url": "https://la14hd.com/vivo/canal.php?stream=fanatiz3"
+      }
+    ]
+  },
+  {
+    "hora": "19:05",
+    "partido": "19:05 Liga de Expansión MX: Tepatitlán vs Mineros de Zacatecas",
+    "canales": [
+      {
+        "nombre": "Disney+",
+        "url": "https://la14hd.com/vivo/canal.php?stream=disney12"
+      }
+    ]
+  },
+  {
+    "hora": "19:15",
+    "partido": "19:15 Liga MX: Toluca vs Pachuca TUDN USA TUDN USA",
+    "canales": [
+      {
+        "nombre": "TUDN USA",
+        "url": "https://rojadirectatve.com/repro/tudnusa.html"
+      },
+      {
+        "nombre": "Canal 5 MX",
+        "url": "https://la14hd.com/vivo/canal.php?stream=canal5"
       }
     ]
   }
