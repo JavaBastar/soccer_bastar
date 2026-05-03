@@ -1,37 +1,5 @@
 [
   {
-    "hora": "15:45",
-    "partido": "15:45 Liga Profesional: San Lorenzo vs Independiente TNT Sports",
-    "canales": [
-      {
-        "nombre": "TNT Sports",
-        "url": "https://rojadirectatve.com/repro/tnt.html"
-      },
-      {
-        "nombre": "Disney+",
-        "url": "https://la14hd.com/vivo/canal.php?stream=disney1"
-      },
-      {
-        "nombre": "Fanatiz10",
-        "url": "https://la14hd.com/vivo/canal.php?stream=fanatiz10"
-      }
-    ]
-  },
-  {
-    "hora": "15:45",
-    "partido": "15:45 Liga Profesional: Unión Santa Fe vs Talleres Córdoba Fanatiz01",
-    "canales": [
-      {
-        "nombre": "Fanatiz01",
-        "url": "https://la14hd.com/vivo/canal.php?stream=fanatiz1"
-      },
-      {
-        "nombre": "ESPN Premium",
-        "url": "https://rojadirectatve.com/repro/espn-premium.html"
-      }
-    ]
-  },
-  {
     "hora": "16:30",
     "partido": "16:30 Liga 1: Cienciano vs Comerciantes Unidos",
     "canales": [
